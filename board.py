@@ -5,3 +5,5 @@ d=10000
 print(a+b)
 print(c+b)
 print ("hello")
+print ("good")
+
